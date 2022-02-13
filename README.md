@@ -10,6 +10,7 @@
 
 ## 🏅 Achievements
 -   🤝 **AI4Industry Participant** for _working on the use case of Amplitude Laser_ (January 2021)
+-   ⭐ **Global rank 15** at _Challenge Data 2021 Mewo_ (December 2021)
 
 ## 🛠️ Skills
 
