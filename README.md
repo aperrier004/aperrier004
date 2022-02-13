@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Alban PERRIER, a **Analyst Developer** at Paris 2024. I am also pursuing my Master of Science in **Human Engineering and Cognitive Technology** (specializing in **Artificial Intelligence**)and will graduate in mid-2022.
+🎓 I am Alban PERRIER, an **Analyst Developer** at Paris 2024 in apprenticeship. I am pursuing my Master of Science in **Human Engineering and Cognitive Technology** (specializing in **Artificial Intelligence**)and will graduate in mid-2022.
 
 🎸 Outside of the scholar world, I enjoy pushing myself to develop new skills. My hobbies range from **yoga**, **rock climbing**, and **playing video games**.
 
