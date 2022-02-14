@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Alban PERRIER, an **Analyst Developer** at Paris 2024 in apprenticeship. I am pursuing my Master of Science in **Human Engineering and Cognitive Technology** (specializing in **Artificial Intelligence**)and will graduate in mid-2022.
+🎓 I am Alban PERRIER, an **Analyst Developer** at Paris 2024 in apprenticeship. I am pursuing my Master of Science in **Human Engineering and Cognitive Technology** (specializing in **Artificial Intelligence**) and will graduate in mid-2022.
 
 🎸 Outside of the scholar world, I enjoy pushing myself to develop new skills. My hobbies range from **yoga**, **rock climbing**, and **playing video games**.
 
@@ -19,7 +19,12 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![csharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![csharp](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+
+### Artificial Intelligence
+
+![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### Front-End Development
 
