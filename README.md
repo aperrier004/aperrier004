@@ -2,11 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Alban PERRIER, an **Analyst Developer** at Paris 2024 in apprenticeship. I am pursuing my Master of Science in **Human Engineering and Cognitive Technology** (specializing in **Artificial Intelligence**) and will graduate in mid-2022.
-
-🎸 Outside of the scholar world, I enjoy pushing myself to develop new skills. My hobbies range from **yoga**, **rock climbing**, and **playing video games**.
-
-✈️ I love **traveling** too. I have been on solo trips to **Hanoi, Vietnam** in _2019_ and to **Siem Reap, Cambodia** in _2019_.
+🎓 I am Alban PERRIER, a **Junior Chief Of Project in Technology** at Paris 2024 since 2021. I graduated in my Master of Science in **Human Engineering and Cognitive Technology** (specializing in **Artificial Intelligence**
 
 ## 🏅 Achievements
 -   🤝 **AI4Industry Participant** for _working on the use case of Amplitude Laser_ (January 2021)
